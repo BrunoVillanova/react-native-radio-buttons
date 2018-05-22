@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ArnaudRinquin/react-native-radio-buttons.git"
+    "url": "git@github.com:BrunoVillanova/react-native-radio-buttons.git"
   },
   "peerDependencies": {
     "react-native": ">=0.25.0"
@@ -33,7 +33,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ArnaudRinquin/react-native-radio-buttons/issues"
+    "url": "https://github.com/BrunoVillanova/react-native-radio-buttons/issues"
   },
-  "homepage": "https://github.com/ArnaudRinquin/react-native-radio-buttons#readme"
+  "homepage": "https://github.com/BrunoVillanova/react-native-radio-buttons#readme"
 }
